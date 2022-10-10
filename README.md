@@ -1,10 +1,7 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif]
 <h1 align="center">Hi there, I'm Anshika Vishwakarma Nice to see you!👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">
+<img align="right" width="400" alt="coding" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika0002&label=Profile%20views&color=0e75b6&style=flat" alt="anshika0002" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anshikavishwak3" target="blank"><img src="https://img.shields.io/twitter/follow/anshikavishwak3?logo=twitter&style=for-the-badge" alt="anshikavishwak3" /></a> </p>
 
 - 🔭 I’m currently working as **intern on app using API**
 
@@ -20,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/109378227437856990940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="109378227437856990940" height="30" width="40" /></a>
 <a href="https://twitter.com/anshikavishwak3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshikavishwak3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshika-vishwakarma-6407ab205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-vishwakarma-6407ab205" height="30" width="40" /></a>
 <a href="https://instagram.com/awwwnshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awwwnshika" height="30" width="40" /></a>
@@ -33,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshika0002&show_icons=true&locale=en&layout=compact" alt="anshika0002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika0002&show_icons=true&locale=en" alt="anshika0002" /></p>
-
