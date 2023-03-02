@@ -3,9 +3,9 @@
 <img align="right" width="400" alt="coding" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika0002&label=Profile%20views&color=0e75b6&style=flat" alt="anshika0002" /> </p>
 
-- 🔭 I’m currently working as **intern on app using API**
+- 🔭 I’m currently working as **Web Development Intern**
 
-- 🌱 I’m currently learning **React, DSA**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
