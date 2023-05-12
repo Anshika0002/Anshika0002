@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend**
 
-- 💬 Ask me about **C++, C, Web Development**
+- 💬 Ask me about **C++, C, Web Development, Django, Python**
 
 - 📫 How to reach me **anshikavishwakarma2222@gmail.com**
 
